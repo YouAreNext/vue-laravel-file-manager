@@ -267,7 +267,7 @@ export default {
 </script>
 
 <style lang="scss">
-    @import "~cropperjs/dist/cropper.css";
+    @import "cropperjs/dist/cropper.css";
 
     .fm-additions-cropper {
         overflow: hidden;

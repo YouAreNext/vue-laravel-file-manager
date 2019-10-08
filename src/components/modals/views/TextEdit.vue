@@ -131,8 +131,8 @@ export default {
 </script>
 
 <style lang="scss">
-    @import '~codemirror/lib/codemirror.css';
-    @import '~codemirror/theme/blackboard.css';
+    @import 'codemirror/lib/codemirror.css';
+    @import 'codemirror/theme/blackboard.css';
 
     .fm-modal-text-edit {
         .modal-body {
